@@ -13,7 +13,3 @@
 - 🌐 Outros: Git | APIs
 
 ---
-
-## 🕹️ Jogue Snake direto aqui!
-Clique na imagem para jogar:
-[![Play Snake](https://img.shields.io/badge/-Play%20Snake-green?style=for-the-badge)](https://play.snake.com) <!-- Link pode ser ajustado -->
